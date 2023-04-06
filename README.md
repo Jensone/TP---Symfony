@@ -45,7 +45,7 @@ Vous allez devoir créer une entité `Project` avec les propriétés suivantes :
 - `description` (string)
 - `image` (string)
 
-Procédez ensuite aux commande permettant migrations pour ajouter toutes les tables en base de données.
+Procédez ensuite aux commandes permettant les migrations, pour ajouter toutes les tables en base de données.
 
 ##### Les + pour les projets (facultatif)
 
@@ -59,10 +59,10 @@ Créez un espace d'administration pour gérer les projets. Pour cela vous allez 
 ---
 ## Rappels importants
 
-- Les lien doivent être fonctionnels et dynamiques dans les templates twig
+- Les liens doivent être fonctionnels et dynamiques dans les templates twig
 - Les pages doivent être "découpées" en "partials" twig
 - Modifier le fichier .env pour connecter votre base de données
-- Réaliser un commit (10 minmum) à chaque importante de votre projet
+- Réaliser un commit à chaque modifications importantes de votre projet (10 minmum)
 
 
 ## Rappel de étapes
