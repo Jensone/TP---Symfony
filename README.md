@@ -4,11 +4,11 @@
 
 ## Introduction
 
-Votre mission du jour consiste à réaliser un portfolio avec Symfony. Vous allez devoir créer un projet Symfony (créer une base de données, créer des entités, créer des contrôleurs et créer des templates).
+Votre mission du jour consiste à réaliser un portfolio. Vous allez devoir créer un projet Symfony (créer une base de données, créer des entités, créer des contrôleurs et créer des templates).
 
 ## Objectifs
 
-À l'aide de vos connaissances sur le framework Symfony, vous allez devoir réaliser un portfolio avec les besoins suivants une :
+À l'aide de vos connaissances sur le framework Symfony, vous allez devoir réaliser un portfolio avec les besoins suivants :
 
 ### Page d'accueil
 
